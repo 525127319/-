@@ -1,0 +1,28 @@
+/*
+ProductTestStation:板测线测试工位
+WorkstationNum：和界面绑定的顺序，不可以修改
+WorkstationName：测试工位的名称 可以根据需求修改
+Status：工位状态 0 - 禁用  1-启用
+*/
+{
+    "ProductTestStation":[
+        { "WorkstationNum":"M1","CellName":"cell1","WorkstationName":"M1" ,"Status":1},
+        { "WorkstationNum":"M2","CellName":"cell1","WorkstationName":"M2" ,"Status":1},
+        { "WorkstationNum":"M3","CellName":"cell1","WorkstationName":"M3" ,"Status":1},
+        { "WorkstationNum":"M4","CellName":"cell1","WorkstationName":"M4" ,"Status":1},
+        { "WorkstationNum":"M5","CellName":"cell1","WorkstationName":"M5" ,"Status":1},
+        { "WorkstationNum":"M6","CellName":"cell1","WorkstationName":"M6" ,"Status":1},
+
+        { "WorkstationNum":"M7","CellName":"cell2","WorkstationName":"M1" ,"Status":1},
+        { "WorkstationNum":"M8","CellName":"cell2","WorkstationName":"M2" ,"Status":1},
+        { "WorkstationNum":"M9","CellName":"cell2","WorkstationName":"M3" ,"Status":1},
+        { "WorkstationNum":"M10","CellName":"cell2","WorkstationName":"M4","Status":1 },
+        
+        { "WorkstationNum":"M11","CellName":"cell3","WorkstationName":"M1","Status":1 },
+        { "WorkstationNum":"M12","CellName":"cell3","WorkstationName":"M2","Status":1 },
+        { "WorkstationNum":"M13","CellName":"cell3","WorkstationName":"M3" ,"Status":1},
+        { "WorkstationNum":"M14","CellName":"cell3","WorkstationName":"M4" ,"Status":1},
+        { "WorkstationNum":"M15","CellName":"cell3","WorkstationName":"M5","Status":1 },
+        { "WorkstationNum":"M16","CellName":"cell3","WorkstationName":"M6" ,"Status":1}
+    ]
+}

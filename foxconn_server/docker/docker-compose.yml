@@ -1,0 +1,14 @@
+version: '3'
+services:
+    beifu:
+      image: imcloud_beifu:v1
+      restart: always
+      #command: /bin/bash /opt/server/start.sh
+      ports:
+        - "3001:3001"
+      volumes:
+        - /Users/ray/Documents/workplace/foxconn/server/db:/opt/server/db
+#networks:
+#  default:
+#    external:
+#      name: imcloudep-external

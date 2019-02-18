@@ -1,0 +1,11 @@
+version: '3'
+services:
+    beifumock:
+      image: imcloud_beifu_mock:v1
+      restart: always
+      volumes:
+        - /Users/ray/Documents/workplace/foxconn/server/db:/opt/server/db
+#networks:
+#  default:
+#    external:
+#      name: imcloudep-external

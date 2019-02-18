@@ -1,0 +1,9 @@
+version: '3'
+services:
+    beifu:
+      image: docker-registry.imcloudep.com/imcloud_beifu:v1
+      restart: always
+      ports:
+        - "3001:3001"
+      volumes:
+        - /opt/db:/opt/server/db

@@ -1,0 +1,36 @@
+{
+    "BlankingPoints":[
+        {"StationName": "天车1", "StationOrder": 1, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M1"},
+        {"StationName": "天车2", "StationOrder": 2, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M2"},
+        {"StationName": "天车3", "StationOrder": 3, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M3"},
+        {"StationName": "天车4", "StationOrder": 4, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M4"},
+        {"StationName": "天车5", "StationOrder": 5, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M5"},
+        {"StationName": "天车6", "StationOrder": 6, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M6"},
+        {"StationName": "天车7", "StationOrder": 7, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M7"},
+        {"StationName": "天车8", "StationOrder": 8, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M8"},
+        {"StationName": "天车9", "StationOrder": 9, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M9"},
+        {"StationName": "天车10", "StationOrder": 10, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M10"},
+        {"StationName": "天车11", "StationOrder": 11, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M11"},
+        {"StationName": "天车12", "StationOrder": 12, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M12"},
+        {"StationName": "天车13", "StationOrder": 13, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M13"},
+        {"StationName": "天车14", "StationOrder": 14, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M14"},
+        {"StationName": "天车15", "StationOrder": 15, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M15"},
+        {"StationName": "天车16", "StationOrder": 16, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M16"},
+        {"StationName": "天车17", "StationOrder": 17, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M17"},
+        {"StationName": "天车18", "StationOrder": 18, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M18"},
+        {"StationName": "天车19", "StationOrder": 19, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M19"},
+        {"StationName": "天车20", "StationOrder": 20, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M20"},
+        {"StationName": "天车21", "StationOrder": 21, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "M21"}
+    ],
+    "Agvs": [
+        {"StationName": "AGV1_1", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A1"},
+        {"StationName": "AGV1_2", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A2"},
+        {"StationName": "AGV1_3", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A3"},
+        {"StationName": "AGV1_4", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A4"},
+        {"StationName": "AGV1_5", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A5"},
+        {"StationName": "AGV1_6", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A6"},
+        {"StationName": "AGV1_7", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A7"},
+        {"StationName": "AGV1_8", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "A8"}    
+    ],
+    "BeltBoxs":[{"StationName": "Belt_2", "StationOrder": 0, "MaterialStatus": "无物料", "MaterialCount": 0, "MaterialCapacity": 300, "MaterialNo": "default", "StationNo": "B8"}]
+}

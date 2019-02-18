@@ -1,0 +1,31 @@
+环境配置：
+1. nodejs8.9+
+2. mysql数据库
+
+server端：
+安装：
+npm install安装依赖
+在build目录下
+
+运行：
+node bundle.js
+
+mock数据
+安装：
+npm install安装依赖
+
+运行：
+npm start mssql
+
+docker build -t imcloud_beifu:v1 .
+docker build -t imcloud_beifu_mock:v1 -f ./MockDockerfile .
+
+停容器
+docker ps -a | grep "imcloud_beifu" | awk '{print $1 }'|xargs docker stop
+删容器
+docker ps -a | grep "imcloud_beifu" | awk '{print $1 }'|xargs docker rm
+
+启动服务
+docker-compose -f docker-compose.yml up -d
+启动模拟程序
+docker-compose -f docker-compose-mock.yml up -d

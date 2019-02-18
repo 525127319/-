@@ -1,0 +1,10 @@
+node_modules
+logs
+test
+package-lock.json
+/*.rar
+.vscode
+.idea
+*.bat
+*.log
+build

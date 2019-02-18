@@ -1,0 +1,7 @@
+version: '3'
+services:
+    beifumock:
+      image: docker-registry.imcloudep.com/imcloud_beifu_mock:v1
+      restart: always
+      volumes:
+        - /opt/db:/opt/server/db
